@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Gothic castle",
+		"cost": 150,
+		"replaces": "Castle",
+		"uniqueTo": "Transylvania",
+		"cityStrength": 9,
+		"cityHealth": 30,
+		"culture": 3,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["[+3 Science] [in this city] <after discovering [Architecture]>", "Destroyed when the city is captured"],
+		"requiredTech": "Chivalry"
 	},
 	{
-		"name": "Breeders",
+		"name": "Vampire's-crypt",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Transylvania",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"uniques": ["[+20]% Production when constructing [melee] units [in this city]"], "Destroyed when the city is captured"],
 		"requiredTech": "Engineering"
 	}
 ]
