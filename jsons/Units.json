@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Ghoul-soldier",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Aliens",
 		"replaces": "Musketman",
 		"movement": 2,
