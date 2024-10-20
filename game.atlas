@@ -25,7 +25,7 @@ NationIcons/Transylvania
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Ghoule-soldiers
+UnitIcons/Ghoul-soldier
   rotate: false
   xy: 328, 4
   size: 100, 100
