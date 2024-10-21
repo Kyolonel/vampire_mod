@@ -8,7 +8,7 @@
 		"strength": 28,
 		"cost": 140,
 		"requiredTech": "Gunpowder",
-		"promotions": ["Bat transformation"],
+		"promotions": ["Bat-transformation"],
 		"attackSound": "shot"
 	}
 ]
