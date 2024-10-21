@@ -1,4 +1,4 @@
-
+[
 	{
 		"name": "Transylvania",
 		"leaderName": "count Dracula",
@@ -33,4 +33,4 @@
 		"uniques":["[+2 Production] per [1] population [in all cities]", "[-100]% [Faith] [in all cities]", "[-33]% [Food] [in all cities]", "All newly-trained [Melee] units [in all cities] receive the [Bloodthirsty] promotion"]
 		"cities": ["Bistrița","Sibiu", "Sigisoara", "Brasov", "Targu Mures", "Cluj Napoca", "Arad", "Deva", "Hunedoara", "Oradea","Satu Mare", "Sfântu Gheorghe."]
 	}
-
+]
