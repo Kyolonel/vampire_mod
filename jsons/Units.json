@@ -10,5 +10,21 @@
 		"requiredTech": "Gunpowder",
 		"promotions": ["Bat-transformation"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Priest-hunter",
+		"unitType": "Civilian",
+		"uniqueTo": "Transylvania",
+		"replaces": "Great Prophet",
+		"strength": 34,
+		"uniques": ["Ignores terrain cost",
+			"Empire enters a [6]-turn Golden Age <by consuming this unit>",
+			"Free Social Policy <by consuming this unit>",
+			"Prevents spreading of religion to the city it is next to",
+			"Can only attack [Civilian] units",
+			"Great Person - [Religion]",
+			"Unbuildable",
+			"Uncapturable"],
+		"movement": 3
 	}
 ]
