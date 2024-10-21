@@ -19,7 +19,7 @@
 		"food":3
 		"cost": 100,
 		"hurryCostModifier": 160,
-		"uniques": ["[+20]% Production when constructing [Melee] units [in this city]", "[20]% Food is carried over after population increases [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["[+30]% Production when constructing [Melee] units [in this city]", "[25]% Food is carried over after population increases [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Engineering"
 	}
 ]
