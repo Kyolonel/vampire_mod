@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Gothic castle",
+		"name": "Gothic-castle",
 		"cost": 160,
 		"replaces": "Castle",
 		"uniqueTo": "Transylvania",
