@@ -9,8 +9,8 @@
 		"startIntroPart1": "Glory to Dracula, Lord of Darkness and Prince of the Night! After centuries of domination by the great human powers, the Carpathians have witnessed the rebirth of an eternal ruler, determined to extend his reign of terror across all of Europe. The dark and imposing Bran Castle stands as the epicenter of this nightmare realm, where shadows stretch long, and the creatures of the night reign supreme. With his army of immortal servants and his immeasurable power, Dracula has defied death itself, spreading fear and destruction in his wake.",
 		"startIntroPart2": "Count Dracula, will you be able to restore your supremacy over the lands that rightfully belong to you, and once again enslave humanity under your dark rule? Will your empire of darkness reign for eternity?",
 		
-		"declaringWar": "I am thirsty, thirsty of your blood",
-		"attacked": "So you want to do it that way ? Fine, I'll make a beautiful tomb for you.",
+		"declaringWar": "I am thirsty, thirsty of your blood.",
+		"attacked": "So you want to do it that way ? Fine, I'll make a beautiful coffin for you.",
 		"defeated": "How is that possible ?",
 		"introduction": "Would you like to share a dinner with us ?",
 		
@@ -34,3 +34,4 @@
 		"cities": ["Bistrița","Sibiu", "Sigisoara", "Brasov", "Targu Mures", "Cluj Napoca", "Arad", "Deva", "Hunedoara", "Oradea","Satu Mare", "Sfântu Gheorghe."]
 	}
 ]
+
