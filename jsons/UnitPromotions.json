@@ -1,7 +1,7 @@
 [
       	{
         	"name": "Bloodthirsty",
-		"uniques": ["Heals [3] damage if it kills a unit","May capture killed [Land] units","Uncapturable"]},
+		"uniques": ["Heals [3] damage if it kills a unit","May capture killed [Land] units","Prevents spreading of religion to the city it is next to","Uncapturable"]},
 		{
         	"name": "Bat-transformation",
 		"uniques": ["Ignores terrain cost","May Paradrop up to [2] tiles from inside friendly territory"]}
