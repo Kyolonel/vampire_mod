@@ -20,7 +20,7 @@
 		"uniques": ["Ignores terrain cost",
 			"Empire enters a [6]-turn Golden Age <by consuming this unit>",
 			"Free Social Policy <by consuming this unit>",
-			"Can remove other religions from cities [4] times",
+			"Can remove other religions from cities <[4] times>",
 			"Prevents spreading of religion to the city it is next to",
 			"Can only attack [Civilian] units",
 			"Great Person - [Religion]",
