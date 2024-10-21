@@ -1,51 +1,47 @@
+
 game.png
-size: 1024, 256
+size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Gothic-castle
   rotate: false
-  xy: 4, 4
-  size: 200, 203
-  orig: 200, 203
+  xy: 2, 104
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Vampire's-crypt
+ BuildingIcons/Vampire's-crypt
   rotate: false
-  xy: 212, 7
+  xy: 2, 306
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Transylvania
   rotate: false
-  xy: 744, 107
+  xy: 204, 406
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ghoul-soldier
   rotate: false
-  xy: 636, 107
+  xy: 204, 304
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Bat-transformation
   rotate: false
-  xy: 420, 107
+  xy: 2, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Bloodthirsty
   rotate: false
-  xy: 528, 107
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-  xy: 4, 4
+  xy: 306, 406
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
