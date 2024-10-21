@@ -2,7 +2,7 @@
 	{
 		"name": "Ghoul-soldier",
 		"unitType": "Gunpowder",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Transylvania",
 		"replaces": "Musketman",
 		"movement": 2,
 		"strength": 28,
