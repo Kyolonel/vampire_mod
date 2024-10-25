@@ -5,7 +5,7 @@
 		"uniqueTo": "Transylvania",
 		"replaces": "Musketman",
 		"movement": 2,
-		"strength": 34,
+		"strength": 28,
 		"cost": 140,
 		"requiredTech": "Gunpowder",
 		"promotions": ["Bat-transformation"],
