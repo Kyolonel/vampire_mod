@@ -4,5 +4,5 @@
 		"uniques": ["Heals [12] damage if it kills a unit","May capture killed [Land] units <with [70]% chance>","Prevents spreading of religion to the city it is next to", "Earn [30]% of killed [Military] unit's [Strength] as [Culture]","Uncapturable"]},
 		{
         	"name": "Bat-transformation",
-		"uniques": ["Ignores terrain cost","May Paradrop up to [2] tiles from inside friendly territory","May withdraw before melee ([20]%)"]}
+		"uniques": ["Ignores terrain cost","May Paradrop up to [2] tiles from inside friendly territory","Withdraws before melee combat (with [20]% chances)"]}
 ]
